@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+.container {
+    margin-left: 320px;
+    padding-top: 80px;
+    text-align: justify;
+}
+img {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    top: 150px;
+    left: 0;
+}
+
+
+.large-text {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 15px;
+}
